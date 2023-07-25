@@ -33,6 +33,13 @@
     height: 4px;
 }
 
+#portfolio .line, #contactme .line{
+    color: var(--bs-primary-grey);
+    background-color: var(--bs-primary-grey);
+    width: 100px;
+    height: 4px;
+}
+
 #site_footer .top{
     background-color: var(--bs-primary-blue);
 }
