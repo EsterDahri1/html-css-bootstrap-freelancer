@@ -44,6 +44,19 @@
     background-color: var(--bs-primary-blue);
 }
 
+.top .row{
+    width:100%;
+}
+
+.icon i{
+    width: 3rem;
+    aspect-ratio: 1/1;
+    border: 1px solid white;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 15px;
+}
+
 #site_footer .bottom{
     background-color: var(--bs-primary-grey);
 }
