@@ -39,6 +39,14 @@
     height: 4px;
 }
 
+form{
+    width:70%;
+}
+
+form .btn{
+    background-color: var(--bs-success-primary);
+}
+
 #site_footer .top{
     background-color: var(--bs-primary-blue);
 }
