@@ -48,6 +48,7 @@ form{
 
 form .btn{
     background-color: var(--bs-success-primary);
+    color:white;
 }
 
 #site_footer .top{
