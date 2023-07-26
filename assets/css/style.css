@@ -6,9 +6,12 @@
     
 }
 
-#site_header{
-    height: 100px;
-    background-color: var(--bs-primary-grey);
+.navbar{
+    width:100%;
+}
+
+.container-fluid{
+    width:70%;
 }
 
 .jumbotron h2, .contanctme h2{
